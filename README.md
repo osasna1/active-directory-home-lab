@@ -60,25 +60,25 @@ Design and deploy a fully functional Active Directory domain environment from sc
 - Verified domain join via **Active Directory Users and Computers**
 
 ---
-
 ## 📸 Screenshots
 
-### Active Directory Users and Computers — OUs and Users
-![AD Users and Computers](screenshots/ad-users-computers.png)
+### 1. Installing Active Directory Domain Services Role
+![AD DS Role](Screenshot%202026-05-09%20094502.png)
 
-### Group Policy Management — FreshCorp Security Policy
-![Group Policy](screenshots/group-policy.png)
+### 2. Creating freshcorp.local Domain
+![Domain Creation](Screenshot%202026-05-09%20095206.png)
 
-### DC01 Static IP Configuration
-![DC01 Static IP](screenshots/dc01-static-ip.png)
+### 3. Server Manager — AD DS & DNS Roles Active
+![Server Manager](Screenshot%202026-05-09%20100800.png)
 
-### Welcome to freshcorp.local Domain
-![Domain Join Success](screenshots/domain-join-success.png)
+### 4. Group Policy — FreshCorp Security Policy
+![Group Policy](Screenshot%202026-05-09%20112259.png)
 
-### PC01 Visible in AD Computers Container
-![PC01 in AD](screenshots/pc01-in-ad.png)
+### 5. Active Directory Users and Computers — OUs & Users
+![AD Users and Computers](Screenshot%202026-05-09%20190359.png)
 
----
+### 6. Welcome to freshcorp.local Domain — PC01 Joined Successfully
+![Domain Join Success](Screenshot%202026-05-09%20204337.png)
 
 ## 🔍 Verification
 
